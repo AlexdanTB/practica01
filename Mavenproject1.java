@@ -35,7 +35,7 @@ public class Mavenproject1 {
         
         respuesta = (baset*alturat)/2;
         System.out.println("El area del triangulo es igual a "+respuesta+ "cm2");
-        System.out.println("--------------------------------------------");
+        System.out.println("--------------------0000000------------------------");
         
         // Calcular area del circulo
         System.out.println("Ingresar el radio del circulo");
